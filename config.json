@@ -1,7 +1,7 @@
 {
-    "token":"YOUR_BOT_TOKEN_HERE",
+    "token":"Nzk2MDYwMDcxODkyNDg0MTE3.X_Satw.8sG3LowEc92PaLn6kukyxH6ROj0",
     "commandPrefix":"/",
-    "ip":"YOUR_SERVER_IP_HERE",
+    "ip":"Unitive.aternos.me",
     "port":25565,
     "pingInterval":"30",
     "embedColor":"7289DA"
